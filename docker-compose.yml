@@ -1,0 +1,11 @@
+version: '3'
+services:
+  master:
+    build: ./server
+    ports:
+      - "5000:5000"
+  node1:
+    build: ./server
+  node2:
+    build: ./server
+  # ... more nodes as needed
