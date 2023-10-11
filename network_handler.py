@@ -1,6 +1,5 @@
 import socket
 
-
 class NetworkHandler:
 
     def __init__(self, host='', port=5000):

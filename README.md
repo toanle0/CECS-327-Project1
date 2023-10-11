@@ -1,7 +1,3 @@
-Certainly! Here's a template README for your distributed communication project:
-
----
-
 # Distributed Communication Project: CECS 327
 
 This project demonstrates a small distributed system with custom-designed communication protocols, implemented as part of the CECS 327 – Intro to Networks and Distributed Computing course.
